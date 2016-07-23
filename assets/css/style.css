@@ -1,8 +1,27 @@
 body {
 	background-image: url("../../assets/images/wallpaper.jpg");
-	color: white;
+	color: red;
 	background-position: center;
 	font-family: 'Special Elite',cursive;
 	background-size: 100%;
 }
 
+.thumbnail {
+	width: 90px;
+	height: 90px;
+	text-align: center;
+	padding: 0px;
+}
+
+span {
+	font-size: 10px;
+	color: blue;
+	padding: 0px;
+	
+}
+
+img {
+	width: 60px;
+	height: 60px;
+
+}
